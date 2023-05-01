@@ -1,4 +1,4 @@
-import { MantineProvider, Text } from '@mantine/core';
+/*import { MantineProvider, Text } from '@mantine/core';
 
 export default function App() {
   return (
@@ -6,9 +6,9 @@ export default function App() {
       <Text>Welcome to Mantine!</Text>
     </MantineProvider>
   );
-}
+}*/
 
-/*import React from 'react';
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -33,4 +33,4 @@ function App() {
   );
 }
 
-export default App;*/
+export default App;
